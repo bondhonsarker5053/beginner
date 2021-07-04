@@ -4,3 +4,9 @@ h1{
 p{
     color: chartreuse;font-family: serif;
 }
+.blog{
+    border: blanchedalmond;
+    margin: 20px;
+    boder border-radius: 10px;
+    padding: auto;5px;
+}
